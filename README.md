@@ -3,7 +3,7 @@ This blog helps techies to write informative blogs on full stack web development
 
 ### Github : https://github.com/himali-dev/FullStackBlog
 
-### Heroku :
+### Heroku : https://fsbhimali.herokuapp.com/
 
 ## User Story
 As developer who writes about tech
