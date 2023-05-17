@@ -3,7 +3,7 @@ const { Post } = require('../models');
 const postData = [
     {
         title: "Nisi anim nulla dolore sunt fugiat aliqua amet non eu pariatur.",
-        article_content: "Taskinator is a task-tracker app that will allow you to organize your personal to-do list items by clicking and dragging them into categories like To Do, In Progress, and Completed.",
+        article_content: "Adipisicing dolor velit cupidatat tempor laborum culpa elit ea officia sint mollit dolor in.",
         user_id: 3
     },
     {
