@@ -1,0 +1,35 @@
+{
+  "name": "full-stack-blog",
+  "version": "1.0.0",
+  "description": "Full Stack Tech Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himali-dev/HimaliTechBlog.git"
+  },
+  "author": "Himali Panchal",
+  "license": "ISC",
+  "homepage": "https://github.com/himali-dev/HimaliTechBlog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bulma": "^0.9.0",
+    "connect-session-sequelize": "^6.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "express-session": "^1.17.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "sequelize": "^5.21.13"
+  },
+  "devDependencies": {
+    "@creativebulma/bulma-divider": "^1.1.0",
+    "jest": "^26.0.1"
+  }
+}
